@@ -1,0 +1,35 @@
+{
+  "name": "bitid",
+  "description": "JavaScript implementation of the BitID authentication protocol: https://github.com/bitid/bitid",
+  "version": "0.0.1",
+  "author": {
+    "name": "Aaron Caswell",
+    "email": "aaron@captureplay.com",
+    "url": "https://github.com/porkchop"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "0.2.0"
+  },
+  "devDependencies": {
+    "should": "3.3.1",
+    "mocha": "1.18.2"
+  },
+  "keywords": [
+    "bitcoin",
+    "id",
+    "identity",
+    "identification",
+    "authentication",
+    "cryptocurrency",
+    "auth"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/porkchop/bitid.git"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
