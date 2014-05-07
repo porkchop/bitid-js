@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var Bitid = require('../lib/bitid')
+var Bitid = require('../')
   , should = require('should');
 
 Bitid.version.should.match(/^\d+\.\d+\.\d+$/);
