@@ -95,11 +95,9 @@ address used to sign the challenge).
 
 ## Integration example
 
-A JavaScript demo version is coming soon, but for now you can check out the Ruby on Rails demo which uses the bitid gem at:
-https://github.com/bitid/bitid-demo
+JavaScript application using the bitid lib: https://github.com/porkchop/bitid-js-demo
 
-Live demonstration :
-http://bitid-demo.herokuapp.com/
+Live demonstration: http://bitid-js-demo.herokuapp.com/
 
 
 ## Author

@@ -21,7 +21,8 @@
     "identification",
     "authentication",
     "cryptocurrency",
-    "auth"
+    "auth",
+    "bitid"
   ],
   "repository": {
     "type": "git",
@@ -31,6 +32,5 @@
   "scripts": {
     "test": "make test"
   },
-  "license": "MIT",
-  "homepage": ""
+  "license": "MIT"
 }
