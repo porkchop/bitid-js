@@ -99,6 +99,16 @@ JavaScript application using the bitid lib: https://github.com/porkchop/bitid-js
 
 Live demonstration: http://bitid-js-demo.herokuapp.com/
 
+## In the Wild
+
+The following projects use bitid-js.
+
+If you are using bitid-js in a project, app, or module, get on the list below
+by getting in touch or submitting a pull request with changes to the README.
+
+### Startups & Apps
+
+- [Decryptocoin](http://decryptocoin.com/)
 
 ## Author
 Aaron Caswell
