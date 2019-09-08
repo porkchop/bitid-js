@@ -8,11 +8,11 @@
     "url": "https://github.com/porkchop"
   },
   "dependencies": {
-    "bitcoinjs-lib": "0.2.0"
+    "bitcoinjs-message": "^2.1.0"
   },
   "devDependencies": {
-    "should": "3.3.1",
-    "mocha": "1.18.2"
+    "mocha": "1.18.2",
+    "should": "3.3.1"
   },
   "keywords": [
     "bitcoin",
