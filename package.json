@@ -1,7 +1,7 @@
 {
   "name": "bitid",
   "description": "JavaScript implementation of the BitID authentication protocol: https://github.com/bitid/bitid",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Aaron Caswell",
     "email": "aaron@captureplay.com",
