@@ -7,13 +7,9 @@ Basically, what the module does is build a message challenge and verifying the s
 
 ## Installation
 
-Add this line to your application's package.json dependencies:
-
-    'bitid': 'latest'
-
-Or install it yourself as:
-
-    $ npm install bitid
+```
+$ npm install bitid
+```
 
 ## Usage
 
@@ -98,17 +94,6 @@ address used to sign the challenge).
 JavaScript application using the bitid lib: https://github.com/porkchop/bitid-js-demo
 
 Live demonstration: http://bitid-js-demo.herokuapp.com/
-
-## In the Wild
-
-The following projects use bitid-js.
-
-If you are using bitid-js in a project, app, or module, get on the list below
-by getting in touch or submitting a pull request with changes to the README.
-
-### Startups & Apps
-
-- [Decryptocoin](http://decryptocoin.com/)
 
 ## Author
 Aaron Caswell
